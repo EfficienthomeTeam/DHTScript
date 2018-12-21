@@ -71,7 +71,7 @@ while True:
         print('switch ',state)
         print('mode: ',mode)
         print('external temp: ', sensors[0])
-        print('near water temp: ', sensors[1])
+        print('near hot water temp: ', sensors[1])
         print('on arduino temp: ', sensors[2])
         print('near top temp: ', sensors[3])
     except:
